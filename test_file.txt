@@ -1,1 +1,1 @@
-I am a text file. My name is test_file.txt. I am being edited.
+I am a text file. My name is test_file.txt.
